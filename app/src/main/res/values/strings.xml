@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Crop Doctor</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Field Hub</string>
+    <string name="nav_scanner">Live Scan</string>
+    <string name="nav_history">Field Log</string>
+
+    <!-- AI Status -->
+    <string name="ai_live_badge">LIVE GEMINI AI</string>
+    <string name="ai_placeholder_badge">SAMPLE PLACEHOLDER</string>
+
+    <!-- Home -->
+    <string name="home_greeting_kicker">BOTANICAL FIELD LAB</string>
+    <string name="home_hero_title">Real-Time Crop Health Diagnostics</string>
+    <string name="home_hero_subtitle">Point your camera at any leaf or upload a specimen for instant triage and treatment steps.</string>
+    <string name="action_start_live_scan">Start Live Scan</string>
+    <string name="action_pick_photo">Pick Photo</string>
+    <string name="section_field_overview">Field Health Pulse</string>
+    <string name="stat_total_scans">Total Scans</string>
+    <string name="stat_healthy_rate">Healthy</string>
+    <string name="stat_active_alerts">Needs Care</string>
+    <string name="section_sample_specimens">Instant Specimen Lab</string>
+    <string name="section_sample_specimens_sub">Test the diagnostic flow with sample crop leaves</string>
+    <string name="section_disease_library">Common Field Threats</string>
+
+    <!-- Scanner -->
+    <string name="scanner_title">Live Crop Scanner</string>
+    <string name="scanner_live_pulse_on">Live Pulse Active</string>
+    <string name="scanner_live_pulse_off">Manual Capture</string>
+    <string name="scanner_permission_title">Camera Access Needed</string>
+    <string name="scanner_permission_body">Grant camera permission to inspect crop leaves in real time, or pick a leaf photo from your gallery.</string>
+    <string name="scanner_grant_permission">Allow Camera</string>
+    <string name="scanner_capture_button">Capture &amp; Diagnose</string>
+    <string name="scanner_analyzing">Inspecting leaf tissue…</string>
+    <string name="scanner_crop_hint_label">Crop Focus</string>
+    <string name="cd_toggle_flash">Toggle camera flash</string>
+    <string name="cd_open_gallery">Choose leaf photo from gallery</string>
+    <string name="cd_capture_leaf">Capture leaf for diagnosis</string>
+
+    <!-- History -->
+    <string name="history_title">Field Log</string>
+    <string name="history_search_hint">Search crop or disease…</string>
+    <string name="history_empty_title">No Crop Scans Yet</string>
+    <string name="history_empty_body">Scan a leaf with the live camera or test a specimen from the Field Hub to start tracking treatments.</string>
+
+    <!-- Diagnosis Detail -->
+    <string name="detail_title">Diagnostic Report</string>
+    <string name="detail_back">Back</string>
+    <string name="detail_delete">Delete log</string>
+    <string name="detail_tissue_telemetry">Leaf Tissue Telemetry</string>
+    <string name="detail_treatment_checklist">Treatment Action Plan</string>
+    <string name="detail_organic_care">Organic &amp; Cultural Care</string>
+    <string name="detail_prevention">Prevention &amp; Monitoring</string>
+    <string name="detail_ask_agronomist">Ask Field Agronomist</string>
+    <string name="detail_ask_hint">Ask about dosage, watering, or spread…</string>
+    <string name="detail_send_question">Send question</string>
+    <string name="detail_mark_resolved">Mark Recovered</string>
+    <string name="detail_resolved_badge">Recovered</string>
+</resources>

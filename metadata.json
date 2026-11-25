@@ -1,0 +1,6 @@
+{
+  "name": "Crop Doctor",
+  "description": "Real-time AI crop disease detection, severity assessment, and actionable treatment recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
